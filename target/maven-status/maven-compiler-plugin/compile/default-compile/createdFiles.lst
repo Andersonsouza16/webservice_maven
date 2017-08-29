@@ -1,0 +1,4 @@
+model\Pessoa.class
+repository\PessoaRepository.class
+entidades\EntidadePessoa.class
+controller\ServiceController.class
